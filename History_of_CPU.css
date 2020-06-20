@@ -1,0 +1,42 @@
+
+#title{
+	font-size:50px;
+	color:red;
+	border: 10px solid transparent;
+    padding: 15px;
+    border-image: url(image/border.png) 30 stretch;
+	text-align:center;
+	font-family:verdana;
+}
+
+body{
+	background-color:#8080c0;
+}
+
+#history_list{
+	font-size:20px;
+	color:#80ffff;
+}
+
+h1{
+	color:#ff8000;
+	font-family:verdana;
+}
+
+h2{
+	color:#ffff80;
+	font-family:courier;
+	font-size:18px
+}
+
+.boss{
+	overflow:hidden;
+}
+.boss div{
+	float:left;
+	margin-left:50px
+}
+	
+.top:hover {
+	color:red;
+	font-style:italic;	

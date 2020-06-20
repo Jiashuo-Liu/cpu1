@@ -1,0 +1,39 @@
+body
+{
+	font-family: Times;
+}
+
+.title
+{
+	background-color:rgb(196,196,196);
+}
+
+ul
+{
+	float: underline;
+}
+
+li:hover {
+	color:red;
+	font-style:italic;
+}
+
+.img1
+{
+	float: right;
+}
+
+.title1
+{
+	background-color:rgb(223,223,223);
+}
+
+.title2
+{
+	background-color:rgb(239,239,239);
+}
+
+.top:hover {
+	color:red;
+	font-style:italic;
+}
